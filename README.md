@@ -1,5 +1,5 @@
 ### dacon
- * 대회 이름 : 주차수요 예측 AI 경진대회
+ * 대회 이름 : 주차수요 예측 AI 경진대회(AI Competition to Predict Parking Demand)
  * 웹 사이트 : https://dacon.io/competitions/official/235745/overview/description
  * 기간 : 2021.06.10 ~ 2021.07.30 18:00
  * 데이터 셋
@@ -15,3 +15,6 @@
 
 #### 주제
  * 유형별 임대주택 설계 시 단지 내 적정 주차 수요를 예측
+
+#### Project Documents
+ * 웹 사이트 : https://energetic-burrito-2e4.notion.site/fc5cdcad232e4b1db0b0c2637da07a57
